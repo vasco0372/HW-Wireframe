@@ -6,7 +6,7 @@ body{
 	background-color: #777;
 	color: #ebebeb;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 #wrapper{
 	margin-top:60px;
@@ -22,7 +22,7 @@ body{
 }
 #header, #nav, #footer{
 	width:960px;
-	height: 90px;
+	height: 80px;
 }
 #container{
 	width:980px;
@@ -31,12 +31,12 @@ body{
 #section{
 	position:absolute;
 	width:495px;
-	height:260px;
+	height:250px;
 	float:left;
 }
 #aside{
 	width:440px;
-	height:260px;
+	height:250px;
 	float:right;
 }
 
